@@ -32,7 +32,7 @@ compressQuality = 100
 [layout]
 minColumn = 1
 maxColumn = 4
-minWidth = 200
+minWidth = 175
 
 # Photo sections
 # You can remove or add more sections by adding following lines
